@@ -1,2 +1,2 @@
 # python-mini-tool
-Content some of my small tool write in python
+Some of small tool that writed in python
